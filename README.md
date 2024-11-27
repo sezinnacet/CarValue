@@ -99,8 +99,8 @@ Bu proje için kullanılan veri seti, **Kaggle** platformunda bulunan [Vehicle D
 1. **Streamlit Arayüzü**:
 
 - Streamlit ile oluşturulan local'in nasıl göründüğüne dair ön gösterimi burada görebilirsiniz.
-  ![Streamlit Uygulama Görseli](tahmin1.png)
-  ![Streamlit Uygulama Görseli](tahmin2.png)
+  ![Streamlit Uygulama Görseli](Tahmin1.png)
+  ![Streamlit Uygulama Görseli](Tahmin2.png)
 
 ---
 
