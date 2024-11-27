@@ -102,6 +102,10 @@ Bu proje için kullanılan veri seti, **Kaggle** platformunda bulunan [Vehicle D
   ![Streamlit Uygulama Görseli](Tahmin1.png)
   ![Streamlit Uygulama Görseli](Tahmin2.png)
 
+2. **Panel Arayüzü**:
+- Panel çalıştırıldığında verilen output'un ön gösterimini burada görebilirsiniz.
+  ![Panel Uygulama Görseli](Panel.png)
+
 ---
 
 Bu projede, araçların tahmini fiyatlarını bulmak için basit, kullanıcı dostu ve hızlı bir uygulama geliştirilmiştir. Marka bilgisi gibi ek özellikler ilerleyen çalışmalarda arayüzlere dahil edilebilir.
